@@ -11,10 +11,12 @@
 
 ## 👋 About
 
-Senior iOS Engineer with **7+ years of experience** building large-scale Swift applications for products serving **500K+ daily active users**. I design client-side architecture, integrate distributed backend systems, evolve large codebases, and use AI-first engineering practices to deliver quickly without compromising quality.
+Senior iOS Engineer with **7+ years of experience** building large-scale Swift applications for products serving **500K+ daily active users**. I design client-side architecture, integrate distributed backend systems, evolve large codebases.
+
+Work within an **AI-assisted Software Development Life Cycle (AI-SDLC)**, applying AI across requirements analysis, architecture and solution design, implementation, refactoring, testing, code review, documentation, PR preparation, and production log analysis. Use project-specific AI instructions and automated validation loops to accelerate delivery while keeping architectural decisions, code quality, and production reliability under engineering control.
 
 - 🚀 Shipped features that reached **1M+ user interactions**.
-- 🛡️ Helped maintain a **99.5% crash-free rate** in a high-traffic product.
+- 🛡️ Helped maintain a **99.8% crash-free rate** in a high-traffic product.
 - 🤝 Contribute to architecture, code reviews, estimation, engineering practices, and test infrastructure.
 
 ## 🧰 Technical toolkit
@@ -22,14 +24,14 @@ Senior iOS Engineer with **7+ years of experience** building large-scale Swift a
 | Area | Technologies |
 | --- | --- |
 | **Language** | Swift |
-| **iOS** | SwiftUI, UIKit, Swift Concurrency, GCD, Combine, AVFoundation, WidgetKit, App Intents, WatchConnectivity |
-| **Apple ecosystem** | Siri, Shortcuts, Widgets, Apple Watch, CarPlay, Control Center |
-| **Architecture** | MVVM, Clean Architecture, feature-based modularization |
+| **iOS** | SwiftUI, UIKit, Swift Concurrency (async/await), GCD, Combine, AVFoundation, AVKit, WidgetKit, AppIntents, WatchConnectivity, StoreKit, CoreImage, MapKit |
+| **Apple Ecosystem** | Siri, Shortcuts, Widgets, Apple Watch, CarPlay, Control Center |
+| **Architecture** | MVVM, Clean Architecture, Feature-Based Modularization |
 | **Data & backend** | Core Data, Firebase, Realm, REST APIs |
 | **Testing** | XCTest, Swift Testing, ViewInspector |
 | **Tooling** | Xcode, Git, Jira, Postman, Charles Proxy, SonarQube, SwiftLint |
-| **CI/CD** | Bitrise, Azure DevOps |
-| **AI engineering** | AI-first development, prompt engineering, Cursor, Codex, GitHub Copilot |
+| **CI/CD** | Azure DevOps, Bitrise |
+| **AI Engineering** | AI-assisted SDLC, Spec-Driven Development, Context Engineering, AI-assisted Architecture & Development, AI-assisted Testing & Code Review, Prompt Engineering, Cursor, Codex, GitHub Copilot |
 
 ## 💼 Experience
 
@@ -40,8 +42,6 @@ Senior iOS Engineer with **7+ years of experience** building large-scale Swift a
 #### 🔐 Access Management Platform *(NDA)*
 
 **February 2024 — Present** · 150K+ daily active users
-
-Large-scale access management platform connecting smart devices, user accounts, real-time notifications, and distributed backend systems — deeply integrated with the Apple ecosystem.
 
 **Team:** 4 iOS Engineers · 3 Android Engineers · 2 Backend Engineers · Manual & Automation QA  
 **Stack:** SwiftUI · Combine · App Intents · WidgetKit · CarPlay · WatchConnectivity · Firebase · Lottie
@@ -60,8 +60,6 @@ Large-scale access management platform connecting smart devices, user accounts, 
 
 **October 2021 — February 2024** · 500K+ daily active users
 
-Mobile application for connected-device and account management, with real-time notifications, guest access, scheduled actions, video content, and complex client–backend state synchronization.
-
 **Team:** 4 iOS Engineers · 3 Android Engineers · 2 Backend Engineers · QA · Business Analyst · UX Designer  
 **Stack:** UIKit · Combine · AVFoundation · Firebase · Lottie
 
@@ -76,9 +74,18 @@ Mobile application for connected-device and account management, with real-time n
 
 **January 2019 — October 2021**
 
+#### 🎯 IoT app for digital rifle scopes: video streaming, media editing, local storage, and news feed
+
+**Stack:** UIKit · AVFoundation · CocoaAsyncSocket · Combine · CoreStore · Firebase · Metal · Moya · Social Login Kits · Swinject
+
+- 📷 Designed and implemented media experiences, including a photo viewer and video editing with trimming and export, using AVFoundation and related media processing workflows.
+- 📲 Developed key product UI, including the live viewfinder, news feed, gallery, device management, and other user-facing flows, integrating backend and device APIs into dynamic application states.
+- 📹 Contributed to real-time device interaction and video streaming experiences, enabling the iPhone to act as a viewfinder and control interface for connected devices.
+- 📺 Adapted key application flows for iPad Split View and different screen configurations, improving usability across the Apple device ecosystem.
+- 🏎️ Improved engineering and product performance by reducing build times, optimizing cloud file uploads, and refactoring application components for better maintainability and development efficiency.
+
 Worked on a range of consumer products, including:
 
-- 🎯 IoT app for digital rifle scopes: video streaming, media editing, local storage, and news feed.
 - 🛒 Retail app with barcode scanning.
 - 🏅 Sports app with calendar and note-taking capabilities.
 - 🏘️ Real-estate platform for property sales and rentals.
